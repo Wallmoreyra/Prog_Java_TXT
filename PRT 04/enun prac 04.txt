@@ -1,0 +1,9 @@
+
+Enunciado:
+
+Realizar un programa que calcule el promedio final de tres materias y que el programa indique si el alumno aprobó o reprobó. 
+
+Las calificaciones son:
+	* Matemáticas: 5
+	* Biología: 8
+	* Quimica: 7

@@ -1,0 +1,8 @@
+
+Enunciado:
+
+Realizar un programa donde el usuario pueda introducir su nombre y dos numeros.
+ ayudas *inport java.util.scanner /*libreria para introducir datos desde teclado*/
+        *Scanner in = new Scanner(System.in) /**/
+	*xxxx = in.nextLine(); /*Para variables strint*/
+	*xxx  = in.nextInt(); /*Para variables tipo Int*/

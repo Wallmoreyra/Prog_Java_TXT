@@ -1,0 +1,11 @@
+
+Enunciado:
+
+Realizar un programa que solicite desde teclado una cadena de caracteres, posteriormente el programa debe indicar a través de un mensaje en pantalla, la cantidad de caracteres que pose dicha cadena. Finalmente el programa debe de preguntar al usuario, ¿que parte de la cadena desea obtener? tal y como se vio en el ejemplo pasado.
+
+consejos:
+
+Usar las dos operaciones de String.
+
+Int_1 = String_1.length(); /*cuenta la cantidad de caracteres*/
+String_2 = String_1.substring(desde, hasta); /*asigna al string un corte del otro*/

@@ -1,0 +1,25 @@
+
+Enunciado:
+
+Realizar un programa que pueda mostrar los 10 numeros siguientes de un numero ingresado por teclado.
+
+Estructura repetitiva Do While(Ciclos o bucles)
+
+Estructura básica de "Do While"
+
+  do{
+       Instrucciones...
+
+   }while(condición);
+
+Ejemplo: Realizar un programa que imprima en pantalla la siguiente serie numérica:
+1000, 800, 600, 400, 200, 0,
+
+ int i = 1000;
+
+   do{
+     System.out.print(i + ", ");
+
+     i-=200;
+
+    }while(i>=0);

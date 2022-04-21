@@ -1,0 +1,15 @@
+
+Enunciado:
+
+Realizar un programa que pueda realizar una suma, una resta, una multiplicacion o una division de dos numeros enteros, dependiendo de la decision del usuario:
+
+	* Si operación es igual a 1, realizar una suma.
+	* Si operación es igual a 2, realizar una resta.
+	* Si operación es igual a 3, realizar una multiplicación.
+	* Si operación es igual a 4, realizar una división.
+
+  Datos:
+	*operacion = 0
+	*num_uno = 8
+	*num_dos = 4
+	*resultado = 0

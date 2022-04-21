@@ -1,0 +1,41 @@
+
+Enunciado:
+
+La empresa coca-cola company solicita un sistema que determine los dias de vacaciones a los que tiene derecho un trabajador, tomando en cuenta las siguientes caracteristicas:
+
+Existen tres departamentos dentro de la empresa con sus respectivas claves:
+
+	1. Departamento de Atencion al cliente. (Clave 1)
+	1. Departamento de Logística. (Clave 2)
+	1. Gerencia. (Clave 3)
+
+Trabajadores con Clave 1(Atencion al cliente):
+
+	* Con 1 año de servicio, reciben 6 dias de vacaciones.
+	* Con 2 a 6 años de servicio, reciben 14 días de vacaciones.
+	* A partir de 7 ños de servicio, reciben 20 días de vacaciones.
+
+Trabajadores con Clave 2(Logística):
+
+	* Con 1 año de servicio, reciben 7 dias de vacaciones.
+	* Con 2 a 6 años de servicio, reciben 15 días de vacaciones.
+	* A partir de 7 ños de servicio, reciben 22 días de vacaciones.
+
+Trabajadores con Clave 3(Gerencia):
+
+	* Con 1 año de servicio, reciben 10 dias de vacaciones.
+	* Con 2 a 6 años de servicio, reciben 20 días de vacaciones.
+	* A partir de 7 ños de servicio, reciben 30 días de vacaciones.
+
+Nota: El sistema debe de solicitar el "Nombre", "Clave del departamento" y "Antiguedad" del trabajador, posteriormente mostrar un mensaje que contenga el nombre del trabajador y los días de vacaciones a los que tiene derecho.
+
+	Trabajadores
+
+	*Gerardo clave 3, tiene 3 años de servicio.
+	 Merece 20 días de vacacinoes.
+
+	*Gerardo clave 1, tiene 1 años de servicio.
+	 Merece 6 días de vacacinoes.
+
+	*Gerardo clave 2, tiene 12 años de servicio.
+	 Merece 22 días de vacacinoes.

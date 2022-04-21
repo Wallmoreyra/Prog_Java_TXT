@@ -1,0 +1,30 @@
+
+Enunciado:
+
+Realizar un programa usando la estructura while que imprima las siguientes series numericas:
+	1,3,5,7,9,
+	10,20,30,40,50,
+	-5,-4,-3,-2,-1
+	2,4,8,16,32
+	625,125,25,5,1,
+
+ 
+
+Estructura repetitiva while - (ciclos o bucles)
+
+Ejemplo: Realizar un programa que imprima en pantalla la serie numérica: 1,3,5,7,9,
+
+
+  int i = 1;  /*la variable en el while siempre se declara afuera*/
+
+          1
+    while(i < 10){
+      System.out.print(i + ", ");
+      i+=2;
+
+    }
+
+Impresión en pantalla:
+  1,3,5,7,9,
+    
+    

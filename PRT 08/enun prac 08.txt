@@ -1,0 +1,16 @@
+
+Enunciado:
+
+Dado dos enteros 5 y 3 realizar un programa que pueda realizar las siguientes operaciones usando un switch: sumarlos, restarlos, multiplicarlos y dividirlos.
+
+Datos: no usar el ingreso por teclado. recordar que switch solo funciona con int y char.
+
+Estructura:  
+    Switch(xxxx){
+     case 1:.............;
+            break;
+     case 2:.............;
+            break;
+     default:.............;
+            break;
+     }

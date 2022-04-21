@@ -1,0 +1,10 @@
+
+Enunciado:
+
+	1. Realizar un programa que compare dos nombres para verificar que son iguales, mostrando un mensaje en pantalla al final que diga: los nombres son iguales / los nombres son diferentes.
+Nota: Los nombres debe de introducirlos el usuario desde teclado.
+
+	2. Realizar un programa que simule un inicio de sesión solicitando el nombre de usuario y la contraseña, para posteriormente comprarlos y mostrar un mensaje en pantalla que diga: inicio de sesión correcto / nombre de usuario o password incorrectos.
+
+Nota:
+ al comparar strings, si se quiere obviar la diferencia de mayusculas y minisculas usar " .equalsIgnoreCase ", con el " .equals " se diferencian las mayusculas y minisculas.

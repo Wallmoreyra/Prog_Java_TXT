@@ -1,0 +1,10 @@
+
+Enunciado:
+
+Realizar un programa que pueda imprimir una matriz dinamica de 3 x 3, que muestre en pantalla:
+
+[1][2][3]
+[4][5][6]
+[7][8][9]
+
+Realizar otro programa que pueda imprimir una matriz dinamica siendo el usuario quien elija el tamaño.
